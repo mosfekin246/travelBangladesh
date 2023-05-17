@@ -12,8 +12,7 @@
 	border-radius: 0.2rem;
 	opacity: .7;
 
-
-	/*nav .navbar-nav li a{
+nav .navbar-nav li a{
   color: #e9eaec;
   margin-left: 1rem;
   margin-bottom: 0.2rem;
@@ -33,4 +32,3 @@ nav .navbar-nav li a:hover{
 
 .nav-link.active:hover {
   color: #000000;
-}*/
